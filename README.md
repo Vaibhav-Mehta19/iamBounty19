@@ -1,2 +1,6 @@
 # iamBounty19
-Personal Profile
+- 👋 Hi, I’m @Vaibhav-Mehta19
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning React js
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
